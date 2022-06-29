@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gardening School</title>
+</head>
+<body bgcolor="lightgreen">
+<table width="70%" align="center" style="background: mintcream;">
+<tr>
+    <td>
+<p align="center"><img src="gs.png" width="200"></p>
+    </td>
+    <th>
+<p style="color: darkgreen; font-size: 500%;"><b>Gardening School</b></p>
+    </th>
+</tr>
+<tr><td colspan="2"><hr style="color: darkgreen;"></td></tr>
+</table>
+<table width="70%" align="center" style="background: mintcream;">
+<tr>
+    <td rowspan="2" style="padding-right: 10px; padding-left: 10px;">
+<p style="text-align: justify; text-indent: 50px; color: forestgreen;">As schools become more aware of the benefits of experiential learning, school gardens have been transformed in outdoor classrooms, enabling students to discover science and the natural environment through fun, engaging and hands-on gardening activities.</p>
+<p style="text-align: justify; text-indent: 50px; color: forestgreen;">
+ Indeed, students are encouraged to get involved with their school gardens right from the start, by helping out with the planning and designing of their gardens, and maintaining their plots on a regular basis. Both teachers and students are equipped with basic plant care skills such as watering, planting, fertilising and pruning. Gardening starter kits are also available, to help them along their experiential journey.</p>
+<p style="text-align: justify; text-indent: 50px; color: forestgreen;">
+Learning gardens have proven to be popular among students. Xiao Zhen, from Concord Primary enjoys her gardening sessions. “I love to do gardening in school. I love plants and I like to see plants growing higher and higher, from a seed to a tall, tall tree! When I do gardening, I feel special, as I enjoy taking care of the plants, and helping in watering and pulling out weeds.”</p>
+    </td>
+    <td style="border: 1px solid darkgreen;">
+    <a href="r.html" target="blank"><img src="r.png" width="200"></a>
+    </td>
+</tr>
+<tr>
+    <td style="border: 1px solid darkgreen;">
+    <a href="fb.html" target="blank"><img src="fb.png" width="200"></a>
+    </td>
+</tr>
+</table>
+<table width="70%" align="center" style="background: mintcream;">
+<tr>
+    <td width="40%">
+        <h3 style="color: darkgreen;">School Gardening Curriculum</h3>
+        <ol style="color: forestgreen;" type="A">
+    <li>Education</li>
+        <ol type="1">
+            <li>Farm Consulting</li>
+            <li>Training Programs</li>
+                <ul type="circle">
+                    <li>Redale Institute's Farmer Training</li>
+                    <li>Veteran Farmer Training</li>
+                </ul>
+            <li>Resources</li>
+                <ul type="square">
+                    <li>All Resources</li>
+                    <li>Free Downloadable Resources</li>
+                    <li>Organic Farm Funding</li>
+                </ul>
+        </ol>
+    <li>Get Involved</li>
+        <ol type="i">
+            <li>Volunteer</li>
+            <li>Corporate Partner</li>
+            <li>Attend Events</li>
+                <ul type="square">
+                    <li>Organic Field Day</li>
+                    <li>Fall on the Farm</li>
+                    <li>Organic Pioneer Awards</li>
+                </ul>
+            <li>Shop Organic</li>
+                <ul type="circle">
+                    <li>Farmers Markets</li>
+                    <li>Online Store</li>
+                    <li>Custom Pork Orders</li>
+                </ul>
+            </ol>
+    </ol>
+</td>
+<td>
+    <video width="500" height="500" controls>
+        <source src="gs.mp4" type="video/mp4">
+    </video>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Feedback</title>
+</head>
+<body>
+<body bgcolor="mintcream">
+    <br><br><br>
+<table width="50%" align="center" style="background: lightgreen;">
+    <tr style="height: 70px;">
+        <td style="border: double darkgreen; text-align: center; border-radius: 10px; background: mintcream;">
+            <font color="green" size="300">Feedback Form</font>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-top: 30px; padding-left: 50px;">
+        <form>
+            <table>
+                <tr>
+                    <td width="20%">
+            To:</td>
+            <td>
+            <input list="whom">
+<datalist id="whom">
+    <option value="Principal">
+    <option value="Manager">
+    <option value="Trainer">
+</datalist></td>
+</tr>
+<tr>
+            <td>Name:</td><td><input type="text" name="n" size="70" placeholder="Enter Full Name."></td></tr>
+<tr>
+            <td>Email:</td><td><input type="email" name="em" size="70" placeholder="sample@example.com"></td></tr>
+    <tr>
+            <td style="padding-bottom: 50px;">        Feedback:</td><td><textarea name="fb" rows="3" cols="60" placeholder="Please type your comment."></textarea> </td></tr>
+<tr>
+            <th colspan="2">
+    <input type="submit" name="r" value="Submit" align="center"></th></tr>
+</table>
+        </form>
+        </td>
+    </tr>
+</table>
+</body>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Registration</title>
+</head>
+<body bgcolor="mintcream">
+<table width="50%" align="center" style="background: lightgreen;">
+    <tr style="height: 70px;">
+        <td style="border: double darkgreen; text-align: center; border-radius: 10px; background: mintcream;"><font color="green" size="300">Learner Registration Form</font></td>
+    </tr>
+    <tr>
+        <td style="padding-top: 30px; padding-left: 50px;">
+        <form>
+            Name:<br><input type="text" name="n" size="70" placeholder="Enter Full Name."><br><br>
+            Father's Name:<br><input type="text" name="fn" size="70">
+            <br><br>
+            Mother's Name:<br><input type="text" name="mn" size="70">
+            <br><br>
+            MobilePhone Number:<br><input type="tel" name="pn" size="70" Pattern="09[0-9]{9}" placeholder="09xxxxxxxxx">
+            <br><br>
+            Email:<br><input type="email" name="em" size="70" placeholder="sample@example.com"><br><br>
+            Gender:<br>
+            <input type="radio" name="rb" id="rb1">
+            <label for="rb1">Male</label>
+            <input type="radio" name="rb" id="rb2">
+            <label for="rb2">Female</label>
+            <input type="radio" name="rb" id="rb3">
+            <label for="rb3">Other</label><br><br>
+            Date of Birth:<br><input type="date" name="dob"><br><br>
+            Address:<br><input type="text" name="n" size="70" placeholder="House, Street, Township, State/Division"><br><br>
+            Blood Group:<br>
+            <select name="bg" >
+<option value="a" >A</option >
+<option value="b">B</option >
+<option value="o">O</option >
+<option value="other"> Other </option >
+</select>
+<br><br>
+Course:<br>
+<input type="checkbox" name="cb1" id="cb1">
+<label for="cb1">Beginner</label><br>
+<input type="checkbox" name="cb2" id="cb2">
+<label for="cb2">Intermediate</label><br>
+<input type="checkbox" name="cb3" id="cb3">
+<label for="cb3">Advance</label>
+<br><br>
+Bio Photo:<br><input type="file" name="file"><br><br>
+<label for="Qu">Desired Classmates</label><br>
+    <input type="number" id="Qu" name="num" min="5" max="20" step="5" value="10"><br><br>
+    <input type="submit" name="r" value="Register">
+    <input type="reset" name="rs" value="Reset">
+        </form>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
